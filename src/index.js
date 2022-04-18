@@ -1,5 +1,5 @@
 import _ from "lodash";
-import "../src/style/main.css";
+import ".style/main.css";
 import * as util from "./jsmodules/util";
 import * as apiFunctions from "./jsmodules/apiFunctions";
 import * as domFunction from "./jsmodules/domInteract";
