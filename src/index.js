@@ -1,8 +1,8 @@
 import _ from "lodash";
-import "./style/main.css";
-import * as util from "./jsmodules/util";
-import * as apiFunctions from "./jsmodules/apiFunctions";
-import * as domFunction from "./jsmodules/domInteract";
+import "src/style/main.css";
+import * as util from "src/jsmodules/util";
+import * as apiFunctions from "src/jsmodules/apiFunctions";
+import * as domFunction from "src/jsmodules/domInteract";
 
 const searchButton = document.querySelector(".search-icon");
 const localWeatherBtn = document.querySelector(".location-icon");
