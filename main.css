@@ -1,3 +1,3 @@
-@import './style/style.css';
-@import './style/layout.css';
-@import './style/search.css';
+@import 'src/style/style.css';
+@import 'src/style/layout.css';
+@import 'src/style/search.css';
